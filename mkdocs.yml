@@ -1,0 +1,6 @@
+site_name: Third Party Integrations
+
+docs_dir: docs
+
+pages:
+- ['index.md','Introduction']
