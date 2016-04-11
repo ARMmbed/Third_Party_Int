@@ -4,3 +4,4 @@ docs_dir: docs
 
 pages:
 - ['index.md','Introduction']
+- ['Simp_Stu/simp_stu.md','Introduction']
