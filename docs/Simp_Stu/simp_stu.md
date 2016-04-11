@@ -28,7 +28,7 @@ To import a project to Simplicity Studio, we use the Eclipse CDT4 – Ninja CMak
 
     <span style="display:block; height:50%; text-align:center; padding:5px; border:1px solid #000;">![Finding and importing the project](../Simp_Stu/Images/Select_directory.png)</span>
 
-1. Click *Finish*.
+1. Click **Finish**.
  
 You should now be able to see your project in Simplicity Studio. You’ll see that the source folder of your module has been symlinked into the Studio project, which has its root in the ``build/efm32lg-stk-gcc`` directory.
  
